@@ -1,0 +1,10 @@
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.csproj.AssemblyReference.cache
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.Form1.resources
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.Properties.Resources.resources
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.csproj.GenerateResource.cache
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\bin\Debug\DataGridveritabanıişlemleri.exe.config
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\bin\Debug\DataGridveritabanıişlemleri.exe
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\bin\Debug\DataGridveritabanıişlemleri.pdb
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.exe
+C:\Users\Cengiz\source\repos\DataGridveritabanıişlemleri\DataGridveritabanıişlemleri\obj\Debug\DataGridveritabanıişlemleri.pdb
